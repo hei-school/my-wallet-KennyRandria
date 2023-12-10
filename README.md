@@ -4,7 +4,7 @@ my-wallet-KennyRandria created by GitHub Classroom
 
 Welcome to the multi-language wallet application! This application allows users to manage their online wallet with different implementations in various programming languages.
 
-                                      The languages programming includes JAVA ,JavaScript ,Python and PHP.
+                               The languages programming includes JAVA ,JavaScript ,Python and PHP.
 
 ## Common Features
 
